@@ -1,2 +1,2 @@
 # testrepo
-it's mardown file
+it's markdown file
