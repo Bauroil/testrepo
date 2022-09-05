@@ -1,0 +1,7 @@
+library (datasets)
+data(iris)
+View(iris) 
+#find how many different species there are
+unique(iris$Species)
+#Run the following command in the console
+install.packages("GGally", repos = "https://cran.r-project.org", type= "source")
